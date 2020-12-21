@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">darkmode</string>
+    <string name="app_name">Dark Mode</string>
+    <string name="todo">TODO</string>
+    <string name="light_theme">Light Theme</string>
 </resources>
